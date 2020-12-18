@@ -1,6 +1,11 @@
 # sicp
 
-FIXME: description
+## Links
+
+[Main MIT REsources Page](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+
+[Lectures Videos](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
+
 
 ## Installation
 
