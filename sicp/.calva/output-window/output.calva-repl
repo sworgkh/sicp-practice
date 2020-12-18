@@ -1,0 +1,83 @@
+; This is the Calva evaluation results output window.
+; TIPS: The keyboard shortcut `ctrl+alt+c o` shows and focuses this window
+;   when connected to a REPL session.
+; Please see https://calva.io/output/ for more info.
+; Happy coding! ♥️
+
+; Jacking in...
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS: 
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj::sicp.core=> 
+
+; Jack-in done.
+clj::sicp.core=> 
+Hello, World!
+nil
+clj::sicp.core=> 
+Hello, World!
+nil
+clj::sicp.core=> 
+Hello, World!
+nil
+clj::sicp.core=> 
+nil
+clj::sicp.core=> 
+#'sicp.core/hello-world
+clj::sicp.core=> 
+#'sicp.core/-main
+clj::sicp.core=> 
+Hello World :)
+nil
+clj::sicp.core=> 
+Hello World :)
+nil
+clj::sicp.core=> 
+Hello World :)
+nil
+clj::sicp.core=> 
+Hello World :)
+sicp.core
+clj::sicp.core=> 
+#'sicp.core/greet
+clj::sicp.core=> 
+; Syntax error compiling at (src/sicp/core.clj:1:873).
+; Unable to resolve symbol: Jonny in this context
+clj::sicp.core=> 
+; Syntax error compiling at (src/sicp/core.clj:1:873).
+; Unable to resolve symbol: Jonny in this context
+clj::sicp.core=> 
+#object[sicp.core$greet 0x334d5afe "sicp.core$greet@334d5afe"]
+clj::sicp.core=> 
+; Syntax error compiling at (src/sicp/core.clj:1:873).
+; Unable to resolve symbol: Jonny in this context
+clj::sicp.core=> 
+
+clj::sicp.core=> 
+; Syntax error compiling at (src/sicp/core.clj:1:873).
+; Unable to resolve symbol: Jonny in this context
+clj::sicp.core=> 
+#object[sicp.core$_main 0x5bd8dc8 "sicp.core$_main@5bd8dc8"]
+clj::sicp.core=> 
+nil
+clj::sicp.core=> 
+nil
+clj::sicp.core=> 
+nil
+clj::sicp.core=> 
+#'sicp.core/hello-world
+clj::sicp.core=> 
+#'sicp.core/greet
+clj::sicp.core=> 
+#'sicp.core/-main
+clj::sicp.core=> 
+Hello World :)
+Hello, Jonny
+nil
+clj::sicp.core=> 
